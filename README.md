@@ -23,7 +23,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Barkha's GitHub stats](https://github-readme-stats.vercel.app/api?username=BARKHAC&show_icons=true&theme=default)
+![Barkha's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=barkha-chainani&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
