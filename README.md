@@ -41,4 +41,11 @@
 - **Languages**: Python, Jupyter Notebook, PowerShell
 - **Specializations**: NLP, Computer Vision, Data Analytics, Deep Learning
 - **Notable Projects**: 
-  - Handwritten Equations to LaTeX Converter (CROHME dataset + custom
+  - Handwritten Equations to LaTeX Converter (CROHME dataset + custom + custom tokenizer)
+  - Real-Time Face Detection System using CNN
+  - BERT Sentiment Analysis
+  - Content Segmentation & Quiz Generation
+---
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barkha-amarlal-chainani-59b2b2199/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=flat&logo=firefox&logoColor=white)](https://barkhaamarlalchainani.netlify.app/)
