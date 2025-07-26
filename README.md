@@ -22,18 +22,15 @@
 
 ---
 
-### 📊 GitHub Stats
-
-#### 🔥 GitHub Streak
+**📊 GitHub Stats**
+**🔥 GitHub Streak**
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BARKHAC&theme=github-light)](https://git.io/streak-stats)
 
-#### 💻 Top Languages
+**💻 Top Languages**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BARKHAC&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 📈 Barkha's GitHub Activity Graph
-[![Barkha's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=BARKHAC&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-
+**📈 Barkha's GitHub Stats**
+[![Barkha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BARKHAC&show_icons=true&theme=default&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🔗 Connect with me
