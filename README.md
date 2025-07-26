@@ -23,9 +23,15 @@
 ---
 
 ### 📊 GitHub Stats
+
+<!-- GitHub Streaks -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=barkha-chainani&theme=github-light)](https://git.io/streak-stats)
+
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkha-chainani&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- GitHub Contribution Graph -->
 [![Barkha's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=barkha-chainani&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-
 
 ---
 
