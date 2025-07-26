@@ -41,7 +41,7 @@
 - **Languages**: Python, Jupyter Notebook, PowerShell
 - **Specializations**: NLP, Computer Vision, Data Analytics, Deep Learning
 - **Notable Projects**: 
-  - Handwritten Equations to LaTeX Converter (CROHME dataset + custom + custom tokenizer)
+  - Handwritten Equations to LaTeX Converter (CROHME dataset + custom tokenizer)
   - Real-Time Face Detection System using CNN
   - BERT Sentiment Analysis
   - Content Segmentation & Quiz Generation
