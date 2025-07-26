@@ -23,10 +23,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Barkha's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkha-chainani&show_icons=true&theme=default)
+![Barkha's GitHub stats](https://github-readme-stats.vercel.app/api?username=BARKHAC&show_icons=true&theme=default)
 
 ---
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=flat&logo=firefox&logoColor=white)](https://YOUR-PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barkha-amarlal-chainani-59b2b2199/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=flat&logo=firefox&logoColor=white)](https://barkhaamarlalchainani.netlify.app/)
