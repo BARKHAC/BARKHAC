@@ -23,14 +23,29 @@
 ---
 
 **📊 GitHub Stats**
-**🔥 GitHub Streak**
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BARKHAC&theme=github-light)](https://git.io/streak-stats)
 
 **💻 Top Languages**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BARKHAC&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-**📈 Barkha's GitHub Stats**
-[![Barkha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BARKHAC&show_icons=true&theme=default&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+**⭐ Curated Collections**
+
+### 🌐 [Web Dev All](https://github.com/stars/BARKHAC/lists/web-dev-all)
+*Complete collection of frontend, backend, and fullstack projects*
+- **14 repositories** spanning multiple technologies
+- **Languages**: JavaScript, Python, Ruby, HTML, CSS, TypeScript
+- **Recent Projects**: Fantasy Test Cricket (MERN + AWS), Social Media Fintech App, Task Manager (Rails)
+- **Highlights**: Full-stack applications with CRUD functionality, game development, and modern web frameworks
+
+### 🤖 [AI & Machine Learning](https://github.com/stars/BARKHAC/lists/ai-ml)
+*Advanced AI/ML projects covering NLP, computer vision, and data analytics*
+- **10 repositories** focused on cutting-edge AI applications
+- **Languages**: Python, Jupyter Notebook, PowerShell
+- **Specializations**: NLP, Computer Vision, Data Analytics, Deep Learning
+- **Notable Projects**: 
+  - Handwritten Equations to LaTeX Converter (CROHME dataset + custom tokenizer)
+  - Real-Time Face Detection System using CNN
+  - BERT Sentiment Analysis
+  - Content Segmentation & Quiz Generation
 ---
 
 ### 🔗 Connect with me
