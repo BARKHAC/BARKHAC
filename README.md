@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**BARKHAC/BARKHAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Barkha Chainani</h1>
+<h3 align="center">Software Developer | AI & Web Dev Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=barkha-chainani&label=Profile%20views&color=0e75b6&style=flat" alt="barkha-chainani" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Cloud Computing, AI, and Web Dev**
+- 💼 Looking for **Full Stack & AI Developer Roles**
+- 🧠 Passionate about **accessible tech** and **data visualization**
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Barkha's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkha-chainani&show_icons=true&theme=default)
+
+---
+
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=flat&logo=firefox&logoColor=white)](https://YOUR-PORTFOLIO.com)
