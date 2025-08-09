@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=barkha-chainani&label=Profile%20views&color=0e75b6&style=flat" alt="barkha-chainani" />
 </p>
 
-- 🌱 I'm currently learning **Cloud Computing, AI, and Web Dev**
+- 🌱 I'm currently learning **in depth skills to become an SWE with AI focus**
 - 💼 Looking for **Full Stack & AI Developer Roles**
 - 🧠 Passionate about **accessible tech** and **data visualization**
 
